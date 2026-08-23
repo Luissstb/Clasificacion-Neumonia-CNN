@@ -17,6 +17,6 @@ El cuaderno principal (`modelo_base_vgg16.ipynb`) implementa un *pipeline* médi
 
 Tras evaluar el modelo con un conjunto de prueba ciego compuesto por 624 radiografías[cite: 1], el modelo ha logrado un rendimiento equiparable al estándar de la industria:
 
-*   **Precisión Global (Accuracy):** 90.87%[cite: 1]
-*   **Sensibilidad Neumonía (Recall):** 98.46% (Maximizando la reducción de falsos negativos)[cite: 1]
-*   **Área bajo la curva (ROC AUC):** 0.9686[cite: 1]
+*   **Precisión Global (Accuracy):** 90.87%
+*   **Sensibilidad Neumonía (Recall):** 98.46% (Maximizando la reducción de falsos negativos)
+*   **Área bajo la curva (ROC AUC):** 0.9686
