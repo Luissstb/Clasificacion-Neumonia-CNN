@@ -4,7 +4,7 @@ El proyecto se centra en el desarrollo de redes neuronales convolucionales (CNN)
 
 ## Conjunto de Datos (Dataset)
 
-Para este proyecto se ha utilizado el popular conjunto de datos **"Chest X-Ray Images (Pneumonia)"** de Kaggle (originalmente recopilado por el Centro Médico de Mujeres y Niños de Guangzhou). 
+Para este proyecto se ha utilizado el popular conjunto de datos **"Chest X-Ray Images (Pneumonia)"** de Kaggle. 
 
 El análisis del conjunto de datos se estructura de la siguiente manera:
 *   **Datos base:** 5.216 radiografías, con un fuerte desbalanceo clínico de 1.341 imágenes Sanas (Normal) y 3.875 imágenes con Neumonía.
