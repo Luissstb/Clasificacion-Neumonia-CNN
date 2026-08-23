@@ -2,6 +2,16 @@
 
 El proyecto se centra en el desarrollo de redes neuronales convolucionales (CNN) para clasificar radiografías de tórax en dos categorías clínicas: **Normal** y **Neumonía**.
 
+## Conjunto de Datos (Dataset)
+
+Para este proyecto se ha utilizado el popular conjunto de datos **"Chest X-Ray Images (Pneumonia)"** de Kaggle. 
+
+*   **Volumen total:** 5.856 radiografías de tórax en formato JPEG.
+*   **Estructura:** Partición rigurosa en conjuntos de Entrenamiento, Validación y Test Ciego (624 imágenes reservadas para la evaluación final).
+
+*(Nota: Por restricciones de peso, las imágenes originales no están subidas a este repositorio).*
+
+
 ## Estado Actual: Modelo Base (Baseline VGG16)
 
 El cuaderno principal (`modelo_base_vgg16.ipynb`) implementa un *pipeline* médico robusto que incluye las siguientes técnicas:
